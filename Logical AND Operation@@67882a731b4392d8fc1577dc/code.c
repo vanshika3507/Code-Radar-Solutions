@@ -4,4 +4,3 @@ void main(){
     scanf("%d %d",&a,&b);
     printf("%s",(a>0 && b>0)?"True":"False");
     }
-}
