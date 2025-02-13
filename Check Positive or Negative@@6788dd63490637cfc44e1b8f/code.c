@@ -1,6 +1,6 @@
 // Your code here...
 #include<stdio.h>
-void main(){
+int main(){
     int a;
     scanf("%d",&a);
     if(a<o){
@@ -12,4 +12,5 @@ void main(){
     else if(a==0){
         printf("Zero");
     }
+    return 0;
 }
