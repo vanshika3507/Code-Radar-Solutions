@@ -7,11 +7,11 @@ void main(){
         printf("Digit");
     }
     else if(isalpha(ch)){
-        ch=tolower(ch):
+        ch=tolower(ch);
         if(ch=='a'||ch=='e'||ch=='i'||ch=='O'||ch=='u'){
-            printf("Vowel"):}
+            printf("Vowel");}
         else{
-            printf("Consonant"):}
+            printf("Consonant");}
     }
         
     else{
