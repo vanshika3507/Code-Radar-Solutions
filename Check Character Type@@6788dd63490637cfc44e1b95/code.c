@@ -1,4 +1,7 @@
 #include<stdio.h>
+#include<ctype.h>
+
+
 void main(){
     char ch;
     scanf("&c",&ch);
