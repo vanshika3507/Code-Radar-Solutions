@@ -7,6 +7,6 @@ void main(){
         printf("In Range");
         }
     else{
-        printf("Out pf Range");
+        printf("Out of Range");
     }
 }
