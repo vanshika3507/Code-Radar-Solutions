@@ -3,5 +3,5 @@
 void main(){
     int a,b;
     scanf("%d %d",&a,&b);
-    printf("%s",(b%a==0)?"Yes":"No");
+    printf("%s",(a%b==0)?"Yes":"No");
 }
