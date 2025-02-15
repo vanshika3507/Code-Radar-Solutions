@@ -7,4 +7,5 @@ void main(){
     }
     else{
         printf("Not Eligible");
-    }}
+    }
+    }
