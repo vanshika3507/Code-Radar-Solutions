@@ -7,7 +7,7 @@ void main(){
     for(int i=2;i<a;i++){
         if (a%i==0){
             count++;
-            }
+            }}
     if((count ==0) ||(a==2)){
             printf("Prime");
     }
@@ -17,4 +17,4 @@ void main(){
     }
     
 }
-}
+
