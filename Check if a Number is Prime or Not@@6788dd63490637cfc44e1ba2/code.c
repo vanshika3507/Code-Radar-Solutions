@@ -8,10 +8,10 @@ void main(){
         if (a%i==0){count++;}
         if((count ==0) ||(a==2)){
             printf("Prime");
-        }}
+        }
         else{
             printf("Not Prime");
 
         }
     
-}
+}}
