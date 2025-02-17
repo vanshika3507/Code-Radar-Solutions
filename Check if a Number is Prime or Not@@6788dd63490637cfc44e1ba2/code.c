@@ -6,7 +6,7 @@ void main(){
     scanf("%d",&a);
     for(int i=2;i<a;i++){
         count++;
-        if(count ==0 ||a==2){
+        if((count ==0) ||(a==2)){
             printf("Prime");
         }
         else{
