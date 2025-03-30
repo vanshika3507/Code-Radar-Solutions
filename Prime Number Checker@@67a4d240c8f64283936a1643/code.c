@@ -1,5 +1,5 @@
 #include<stdio.h>
-int isPrime(num){
+int isPrime( int num){
     int count =0;
     if(num%2==0){
         count++;
